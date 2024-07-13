@@ -10,3 +10,4 @@ There are two tyypes of JDK open and Oracal /open is free to use
 This is from system computer to remote 
 
 git sequence - add - commit - Push - Pull
+
